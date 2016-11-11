@@ -146,7 +146,7 @@ public class MainActivity extends AppCompatActivity implements NoteLinedEditorFr
 
     public void openNavigation(View view)
     {
-        Intent intent = new Intent(this,Navigation.class);
+        Intent intent = new Intent(this,MapActivity.class);
         startActivity(intent);
     }
 

@@ -18,7 +18,8 @@
         <activity android:name=".activities.Notepad" />
         <activity android:name=".activities.Navigation" />
         <activity android:name=".activities.MoneyTracker" />
-        <activity android:name=".activities.Reminder"></activity>
+        <activity android:name=".activities.Reminder" />
+        <activity android:name=".activities.MapActivity"></activity>
     </application>
 
 </manifest>
